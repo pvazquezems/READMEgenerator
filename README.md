@@ -27,7 +27,14 @@ Make sure you have node.js installed on your computer.  from the command line in
 answer the prompts that follow and hit enter when done. 
 
 # Usage
-this app can be used in conjunction with the rest of your files you submit to github.  a readme generator tells other programmers what your app is all about. 
+this app can be used in conjunction with the rest of your files you submit to github.  a readme generator tells other programmers what your app is all about.
+
+# Technology used
+Node.js
+ES6
+NPM
+GitBash
+GitHub
 
 # Tests
 I ran multiple tests console logging a lot to make sure i was appending the right data from the axios call.
