@@ -1,7 +1,8 @@
 # Unit 09 Node.js and ES6+ Homework: Good README Generator
 
 ## created a command line app, that generates a README.md file from the inputs the user made via prompts on the terminal.
-https://img.shields.io/badge/pvazquezems
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](https://img.shields.io/badge/pvazquezems)
 
 The README will be populated with the following:
 
